@@ -1,7 +1,7 @@
 {
-  "name": "MAALUTTY_V3",
+  "name": "Toxic-Alexa",
   "version": "7.3.6",
-  "description": "maalutty is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
+  "description": "alexa is the Modified Version of WhatsAsena, Made By @TURBOHYPER with Baileys.",
   "main": "./ALEXA/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
