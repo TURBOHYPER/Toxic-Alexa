@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Toxic-Alexa working!')
+            chalk.green.bold('✅ Toxic-Alexa working✅!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
