@@ -26,14 +26,14 @@ Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to mak
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXICTURBO/Toxic-Alexa) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/TOXICTURBO/Toxic-Alexa
+$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
 $ cd Toxic-Alexa
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -42,7 +42,7 @@ $ node toxic-alexa.js
       
 ```js
 SETUP
-$ git clone https://github.com/TOXICTURBO/Toxic-Alexa
+$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
 $ cd Toxic-Alexa
 $ npm i
 $ node toxic-alexa.js
