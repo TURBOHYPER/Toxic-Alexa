@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Toxic-Pikachu working!')
+            chalk.green.bold('✅ Toxic-Alexa working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Pikachu ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TamilTurboGamingYT \n Report errors\njoin with +91 \n https://chat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Alexa ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TamilTurboGamingYT \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp``` ' 
                                     , MessageType.text);
                             }
                         }
