@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Pikachu created by Turbo*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Alexa created by Turbo*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n Pikachu created by Turbo', MessageType.text);
@@ -30,10 +30,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Pikachu created by Turbo*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Alexa created by Turbo*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n Pikachu created by Turbo', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n Alexa created by Turbo', MessageType.text);
         }
     }));
 }
