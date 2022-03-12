@@ -110,7 +110,22 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     conn.on('open', async () => {
         console.log(
             chalk.green.bold('✅ Login successful!')
+         );
+        console.log(
+            chalk.blueBright.italic('Confirming password...')
         );
+        if (config.AFPLK == 'Alexa777' || config.AFPLK == 'alexa777' || config.AFPLK == 'vava' || config.AFPLK == 'ALEXA777') {
+        //thanks to afnanplk
+        console.log(
+            chalk.green.bold('✅Thanks For Using Toxic Alexa Your Password Is Correct✅')
+        );
+         }
+         else if (config.AFPLK !== 'Alexa777' || config.AFPLK !== 'alexa777' || config.AFPLK !== 'vava' || config.AFPLK !== 'ALEXA777') {
+         console.log(
+            chalk.red.bold('make sure you have typed the correct password'));
+         throw new Error("Password Error ⚠⚠ ");         
+         return; //created by afnanplk
+         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
