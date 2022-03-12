@@ -80,7 +80,7 @@ Click WA logo to Join public bot Group👇
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://www.youtube.com/c/TamilTurboGamingYT)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://www.youtube.com/c/TurboMods)
 
 
 ### contact on instagram👇
