@@ -1,6 +1,6 @@
-/*coded by ameer&hisham
-youtube https://youtube.com/c/ICHUTECH
-https://youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw
+/*coded by Turbo&Jifi
+youtube https://www.youtube.com/c/TurboMods
+https://www.youtube.com/c/TamilTurboGamingYT
 */
 
 const Asena = require('../events');
@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
 
         var ttinullimage = await axios.get(`https://api.zeks.xyz/api/logoaveng?apikey=Upe1Fp1lDAtX0ioPYLEPsSoX51i&text1=Pikachu&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by PIKACHU' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by Toxic-Alexa' })
 
     }));
 }
@@ -32,7 +32,7 @@ else if (Config.WORKTYPE == 'public') {
         var ttinullimage = await axios.get(`https://api.zeks.xyz/api/logoaveng?apikey=Upe1Fp1lDAtX0ioPYLEPsSoX51i&text1=Pikachu&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by PIKACHU' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by Toxic-Alexa' })
 
     }));
     
