@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Sticker commads : coming soon*
 
-*My channel link : https://youtube.com/c/TamilTurboGamingYT* 
+*My channel link : https://youtube.com/c/TurboMods* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
