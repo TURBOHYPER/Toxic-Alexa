@@ -1,5 +1,4 @@
-/* Codded by @mrclfd // rapiUp
-Telegram: t.me/mrclfd
+/* Codded by @TURBOHYPER // MD JIFI
 Semoga Berfaedah dan Berkah :)
 */
 
