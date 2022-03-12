@@ -1,7 +1,7 @@
 /* Copyright (C) 2021 ameer-kallumthodi.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Toxic-Pikachu*/
+Toxic-Alexa*/
 
 const Asena = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
 
     var ttinullimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/greenneon?apikey=72455af19b2324b6b9a4c844&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Pikachu*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Alexa*' })
 
   }));
 }
@@ -31,7 +31,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var ttinullimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/greenneon?apikey=72455af19b2324b6b9a4c844&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Pikachu*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Alexa*' })
 
   }));
 
