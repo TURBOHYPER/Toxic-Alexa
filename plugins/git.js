@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Alexa bot created by Turbo*
 *Creator number : wa.me/916380260672?text=Hi%20Turbo%20Mods.%20*
 
-*Githublink :    coming soon*
+*Githublink :    https://github.com/TURBOHYPER/Toxic-Alexa*
 
 *Audio commads :   coming soon*
 
