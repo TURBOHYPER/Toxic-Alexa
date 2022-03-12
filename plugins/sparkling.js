@@ -1,7 +1,7 @@
 /* Copyright (C) 2021 ameer-kallumthodi.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-PIKACHU*/
+Toxic-Alexa*/
 
 const Asena = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
 
     var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/sparkling?text1=${encodeURIComponent(match[1])}&text2=Pikachu`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Pikachu*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Alexa*' })
 
   }));
 }
@@ -31,7 +31,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/sparkling?text1=${encodeURIComponent(match[1])}&text2=Pikachu`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Pikachu*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Toxic-Alexa*' })
 
   }));
 
