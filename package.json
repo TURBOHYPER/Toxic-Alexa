@@ -1,14 +1,14 @@
 {
-  "name": "Toxic-Pikachu",
+  "name": "Toxic-Alexa",
   "version": "2.0.0",
-  "description": "Toxic-Pikachu whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./pikachu/bot.js",
+  "description": "Toxic-Alexa whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./Toxic-Alexa/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TOXICTURBO/Toxic-Pikachu.git"
+    "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com/TURBOHYPER/Toxic-Alexa/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
