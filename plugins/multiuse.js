@@ -1,4 +1,4 @@
-/*codded by ameer-kallumthodi
+/*codded by Turbo And Jifi
 */
 
 const Asena = require('../events');
