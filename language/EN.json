@@ -189,7 +189,7 @@
             "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
             "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/Hsko4xW4OJk```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/W725IHjXFHY```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
             "UPLOADING_VIDEO": "```Uploading...```",
             "YT_DESC": "It searchs on YouTube.",
