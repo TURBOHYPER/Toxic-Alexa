@@ -16,13 +16,13 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Ameer suhail / @phaticusthiccy",
+  "developer": "Turbo / Jifi",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/TURBOHYPER/Toxic-Alexa/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
-    "raganork-bot": "1.4.2"
+    "Toxic-Alexa": "1.4.2"
   }
 }
