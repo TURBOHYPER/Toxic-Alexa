@@ -31,6 +31,11 @@
             "required": false,
             "value": "ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩"
          },
+         "BOT_NAME": {
+            "description": "Bot Name For Menu",
+            "required": false,
+            "value": "🥵Toxic-Alexa🥶"
+         },
          "TALKING_ALEXA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
