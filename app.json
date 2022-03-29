@@ -26,6 +26,11 @@
             "required": false,
             "value": "31996800"
          },
+         "BROADCAST_NAME": {
+            "description": "alexafor ordertext",
+            "required": false,
+            "value": "ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩"
+         },
          "TALKING_ALEXA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
