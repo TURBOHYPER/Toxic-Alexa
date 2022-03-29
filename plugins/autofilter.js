@@ -10,7 +10,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-asena.addCommand({pattern: 'Turbo', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+asena.addCommand({pattern: 'turbo', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -24,7 +24,7 @@ asena.addCommand({pattern: 'Turbo', fromMe: true, deleteCommand: true, desc: GM,
 
     }));
 
-asena.addCommand({pattern: 'Jifi', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+asena.addCommand({pattern: 'jifi', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
 
@@ -42,7 +42,7 @@ asena.addCommand({pattern: 'Jifi', fromMe: true, deleteCommand: true, desc: GN,}
 
     if (Config.WORKTYPE == 'public') {
 
-        asena.addCommand({pattern: 'Turbo', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
+        asena.addCommand({pattern: 'turbo', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
             var r_text = new Array ();
 
@@ -56,7 +56,7 @@ asena.addCommand({pattern: 'Jifi', fromMe: true, deleteCommand: true, desc: GN,}
 
             }));
 
-        asena.addCommand({pattern: 'Jifi', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
+        asena.addCommand({pattern: 'jifi', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
                 var r_text = new Array ();
 
