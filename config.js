@@ -48,6 +48,7 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
+    BC: process.env.BROADCAST_NAME === undefined ? '🥵Toxic-Alexa🥶⁩' : process.env.BROADCAST_NAME,
     BOTSK: process.env.BOT_NAME === undefined ? '🥵Toxic-Alexa🥶' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/toxic_turbo777' : process.env.SOCIAL_MEDIA,
