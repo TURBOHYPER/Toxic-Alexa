@@ -1,7 +1,7 @@
 /* coded by Turbo
 */
 
- const Alexa = require('../events');
+ const asena = require('../events');
  const { MessageType, Mimetype } = require('@adiwajshing/baileys');
  const fs = require('fs');
  const ffmpeg = require('fluent-ffmpeg');
@@ -20,7 +20,7 @@ else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
              
             }
 
-Alexa.addCommand({pattern: 'alexafor ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
+asena.addCommand({pattern: 'alexafor ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
   
     if (message.reply_message === false);
     
