@@ -43,9 +43,9 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ᴛᴏxɪᴄ ᴛᴜʀʙᴏ 
-│ ▢ *ᴏᴡɴᴇʀ* :` + config.BOT + `
-│ ▢ *ʙᴏᴛ* :` + config.BOT + `
+│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ᴛᴜʀʙᴏ 
+│ ▢ *ᴏᴡɴᴇʀ* :` + config.OWNER + `
+│ ▢ *ʙᴏᴛ* :` + config.BOTSK + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 │ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
