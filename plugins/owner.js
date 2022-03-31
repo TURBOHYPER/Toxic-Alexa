@@ -12,10 +12,10 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.BOTSK == 'default') {
-            await message.client.sendMessage(message.jid,'*created by Turbo*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Toxic-Alexa Created By Turbo*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n created by Config.OWNER', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.BOTSK + '\n Toxic-Alexa Created By Turbo', MessageType.text);
         }
     }));
 }
@@ -30,10 +30,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.BOTSK == 'default') {
-            await message.client.sendMessage(message.jid,'*created by Config.OWNER*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Toxic-Alexa Created By Turbo*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n created by Config.OWNER', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.BOTSK + '\n Toxic-Alexa Created By Turbo', MessageType.text);
         }
     }));
 }
