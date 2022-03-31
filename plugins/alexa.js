@@ -11,7 +11,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Asena.addCommand({pattern: 'alexa', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
@@ -26,7 +26,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: 'This Bot Made By Turbo And Jifi💖 ',
+          contentText: 'Hey I Am Alexa A Whatsapp Bot Made By Turbo And Jifi And They Are The Leaders Of Team Toxic',
           footerText: '©ꪶ͢Turbo ÂÑD Jifiꫂ™',
           buttons: buttons,
           headerType: 1
