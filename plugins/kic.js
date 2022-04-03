@@ -6,7 +6,7 @@ const fs = require('fs');
 const Config = require('../config')
 Ktb.addCommand({ pattern: 'kichu ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
-//coded by saidali
+//coded by Turbo
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Kichu\n' // full name
