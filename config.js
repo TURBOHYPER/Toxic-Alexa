@@ -26,6 +26,7 @@ module.exports = {
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? 'true' : process.env.AUTO_STICKER,
+    warn_count: process.env.WARN_COUNT === undefined ? '3' : process.env.WARN,
     PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     AFPLK: process.env.ALEXA_PASSWORD === undefined ? false : process.env.ALEXA_PASSWORD,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
