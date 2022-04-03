@@ -1,6 +1,6 @@
 /* Moded by Turbo
 reedit by Jifi
-copy അടിക്കുമ്പോൾ പേര് മാറ്റരുത് ഒരുപാട് ദിവസത്തെ കഷ്ടപ്പാട് ആണ്
+copy with the name turbo and jifi
 
 Contact us :
 
