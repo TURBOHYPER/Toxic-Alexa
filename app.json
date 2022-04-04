@@ -51,6 +51,21 @@
             "required": false,
             "value": "true"
         },
+        "NAME_STYLE": {
+            "description": "Set the logo list name",
+            "required": false,
+            "value": "Turbo"
+        },
+        "ALIVEBUTTON": {
+            "description": "Set the alive message two name",
+            "required": true,
+            "value": "ʜᴇʟʟᴏ ʙʀᴏ"
+        },
+        "ALIVE_BUTTON": {
+            "description": "Set the Alive message first name",
+            "required": true,
+            "value": "ʜɪ ᴅᴜᴅᴇ"
+        },
         "INSTA_LINK": {
             "description": "Type Your Instagarm UserName Here'. Otherwise false",
             "required": false,
