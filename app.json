@@ -51,6 +51,16 @@
             "required": false,
             "value": "true"
         },
+        "INSTA_LINK": {
+            "description": "Type Your Instagarm UserName Here'. Otherwise false",
+            "required": false,
+            "value": "https://instagram.com/toxic_turbo777"
+        },
+        "NUMBER": {
+            "description": "Type Your Number Here'. Otherwise false",
+            "required": false,
+            "value": "916380260672"
+        },
         "WARN_COUNT": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
