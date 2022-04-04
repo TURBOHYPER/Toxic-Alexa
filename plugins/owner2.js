@@ -13,9 +13,9 @@ var ddd = ggg.toString('utf-8')
 Turbo.addCommand({pattern: 'owner', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: '𝙽𝙰𝙼𝙴', description: "🍁 ɴᴀᴍᴇ ᴏғ ᴏᴡɴᴇʀ 🍁.\n\n\n+Config.BOTSK+\n ", rowId:" rowid1"},
-        {title: '𝙸𝙽𝚂𝚃𝙰 ', description: "🍁 ɪɴsᴛᴀɢʀᴀᴍ 🍁.\n\n\n+Config.INSTA+\n ", rowId:" rowid2"},
-        {title: '𝙽𝚄𝙼𝙱𝙴𝚁', description: "🍁 ɴᴜᴍʙᴇʀ 🍁.\n\n\nhttp://wa.me/+Config.PHONE+\n ", rowId:" rowid3"},
+        {title: '𝙽𝙰𝙼𝙴', description: "🍁 ɴᴀᴍᴇ ᴏғ ᴏᴡɴᴇʀ 🍁.\n\n\n(Config.BOTSK == 'default')\n ", rowId:" rowid1"},
+        {title: '𝙸𝙽𝚂𝚃𝙰 ', description: "🍁 ɪɴsᴛᴀɢʀᴀᴍ 🍁.\n\n\n(Config.INSTA == 'default')\n ", rowId:" rowid2"},
+        {title: '𝙽𝚄𝙼𝙱𝙴𝚁', description: "🍁 ɴᴜᴍʙᴇʀ 🍁.\n\n\n(Config.PHONE == 'default')\n ", rowId:" rowid3"},
         ]
        
        const sections = [{title: "+Config.BOT+️", rows: rows}]
