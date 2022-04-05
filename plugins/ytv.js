@@ -12,7 +12,7 @@ const Axios = require('axios')
 const conf = require('../config');
 let wk = conf.WORKTYPE == 'public' ? false : true
 
-Abu.addCommand({pattern: 'ytv ?(.*)', fromMe: wk, desc: 'video downloading links from youtube'}, async (message, match) => {
+Turbo.addCommand({pattern: 'ytv ?(.*)', fromMe: wk, desc: 'video downloading links from youtube'}, async (message, match) => {
 	
 const ig = await Axios.get('https://avatars.githubusercontent.com/u/85664936?s=120&v=4', {responseType: 'arraybuffer'})
 const options = {}
