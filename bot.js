@@ -38,7 +38,7 @@ const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
 var PROP = { aredits: '916380260672,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
-var PROP2 = { kl11: '916282344739,0' }
+var PROP2 = { kl11: '916380260672,0' }
 var string = base + `souravkl11`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
@@ -111,21 +111,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
-        console.log(
-            chalk.blueBright.italic('Confirming password...')
-        );
-        if (config.TURBO == 'ToxicTurbo' || config.TURBO == 'turbo777' || config.TURBO == 'vava' || config.TURBO == 'ToxicTurbo') {
-        //thanks to afnanplk
-        console.log(
-            chalk.green.bold('Key Confirmed Thanks For Using Toxic Alexa✅')
-        );
-         }
-         else if (config.TURBO !== 'ToxicTurbo' || config.TURBO !== 'turbo777' || config.TURBO !== 'vava' || config.TURBO !== 'ToxicTurbo') {
-         console.log(
-            chalk.red.bold('make sure you have typed the correct password'));
-         throw new Error("Password Error ⚠⚠ ");         
-         return; //created by afnanplk
-         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
