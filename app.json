@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 916380260672,0 (india number +91)",
             "required": false
         },
         "LANGUAGE": {
@@ -206,7 +206,7 @@
          "ALEXA_PASSWORD": {
             "description": "enter the password, to get password watch https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
             "required": false,
-            "value": "turbo777"
+            "value": "turbo330@777"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
