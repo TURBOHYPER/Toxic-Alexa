@@ -4,8 +4,8 @@
     "logo": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/TURBOHYPER/Toxic-Alexa",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "website":   "https://github.com/TURBOHYPER/Toxic-Alexa",
+    "success_url": "https://github.com/TURBOHYPER/Toxic-Alexa",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
