@@ -206,7 +206,7 @@
          "ALEXA_PASSWORD": {
             "description": "enter the password, to get password watch https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
             "required": false,
-            "value": "default"
+            "value": "turbo129@777"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
@@ -216,7 +216,7 @@
         "PROMOTE_MESSAGE": {
             "description": "Customizable Promote Message! Use => default, to change back.",
             "required": true,
-            "value": "turbo129@777"
+            "value": "default"
         },
         "DEMOTE_MESSAGE": {
             "description": "Customizable Demote Message! Use => default, to change back.",
