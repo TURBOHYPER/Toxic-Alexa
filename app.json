@@ -206,7 +206,7 @@
          "ALEXA_PASSWORD": {
             "description": "enter the password, to get password watch https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
             "required": false,
-            "value": "turbo330@777"
+            "value": "turbo777"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
