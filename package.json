@@ -1,28 +1,34 @@
 {
   "name": "Toxic-Alexa",
-  "version": "2.0.0",
+  "version": "4.0.1",
   "description": "Toxic-Alexa whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./Toxic-Alexa/bot.js",
   "scripts": {
-    "start": "supervisor -s bot.js"
+    "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa.git"
   },
   "keywords": [
-    "WhatsApp",
-    "bgm",
-    "Bot"
+    "whatsapp",
+    "bot",
+    "ai",
+    "asena",
+    "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Turbo / Jifi",
+  "developer": "Toxic-Alexa / @TURBOHYPER",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/TURBOHYPER/Toxic-Alexa/issues"
   },
-  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
+  "homepage": "https://github.com/TURBOHYPER/Toxic-Alexa#readme",
   "dependencies": {
-    "raganork-bot": "1.4.2"
-  }
+    "file-type": "16.5.2",
+    "nekobin": "0.0.1",
+    "raganork-bot": "1.9.5",
+    "sequelize": "6.13.0",
+    "supervisor": "0.12.0"
+     }
 }
