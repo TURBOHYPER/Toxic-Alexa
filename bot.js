@@ -114,13 +114,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'Alexa539@328' || config.AFPLK == 'alexa539@328' || config.AFPLK == 'ALEXA539@328' || config.AFPLK == 'pinky') {
+        if (config.AFPLK == 'Turbo129@777' || config.AFPLK == 'turbo129@777' || config.AFPLK == 'TURBO129@777' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('Key Confirmed Thanks For Using Toxic Alexa✅')
         );
          }
-         else if (config.AFPLK !== 'Alexa539@328' || config.AFPLK !== 'alexa539@328' || config.AFPLK !== 'alexa539@328' || config.AFPLK !== 'pinky') {
+         else if (config.AFPLK !== 'Turbo129@777' || config.AFPLK !== 'turbo129@777' || config.AFPLK !== 'TURBO129@777' || config.AFPLK !== 'pinky') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
