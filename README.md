@@ -9,14 +9,14 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TOXICTURBO/Toxic-Alexa&title=Toxic-Alexa%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=Toxic-Alexa%20Views)
 
 ## Setup
 <div align="center">
@@ -51,15 +51,15 @@ $ node toxic-alexa.js
 ----
 
   <p align="center">
-  <a href="https://github.com/TOXICTURBO/Toxic-Alexa">
+  <a href="https://github.com/TURBOHYPER/Toxic-Alexa">
     
-<a href="https://github.com/farhan-dqz/followers">
+<a href="https://github.com/TURBOHYPER/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/followers"
+<a href="https://github.com/TURBOHYPER/Toxic-Alexa/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/TOXICTURBO?color=blue&style=flat-square"></a>
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOXICTURBO/Toxic-Alexa?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXICTURBO/Toxic-Alexa?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/TURBOHYPER/Toxic-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TURBOHYPER/Toxic-Alexa?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/TURBOHYPER/Toxic-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TURBOHYPER/Toxic-Alexa?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -99,9 +99,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TOXICTURBO) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
+  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
 ----|----|----
-[Toxic-Turbo](https://github.com/TOXICTURBO) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
+[Toxic-Turbo](https://github.com/TURBOHYPER) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
 Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Developer, Base, Bug Fixes, Modules
   </div>
     
