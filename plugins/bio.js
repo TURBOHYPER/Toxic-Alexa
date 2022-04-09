@@ -6,13 +6,13 @@ Thanks:
 copy with credits
 */
 
-const Asena = require('../events');
+const Turbo = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config'); // +
 let wk = Config.WORKTYPE == 'private' ? true : false // +
 const pd = "Chooses beautiful bios for your friends." // +
 
-Asena.addCommand({pattern: 'bio$', fromMe: wk, desc: pd}, (async (message, match) => {
+Turbo.addCommand({pattern: 'bio$', fromMe: wk, desc: pd}, (async (message, match) => {
 
     const id = message.jid // +
     if (!message.reply_message) return await message.client.sendMessage(id, '```You have to answer someone for me to choose a bio!```', MessageType.text); // +
