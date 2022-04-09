@@ -187,7 +187,7 @@
             "DOWNLOADING_SONG": "```Baixando sua música...```",
             "UPLOADING_SONG": "```Enviando sua música...```",
             "VIDEO_DESC": "Baixa vídeo do YouTube.",
-            "NEED_VIDEO": "*Envie um link de vídeo!*\n*Exemplo:* ```.video https://youtu.be/W725IHjXFHY```",
+            "NEED_VIDEO": "*Envie um link de vídeo!*\n*Exemplo:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Baixando seu vídeo...```",
             "UPLOADING_VIDEO": "```Enviando seu vídeo...```",
             "YT_DESC": "Pesquisa no YouTube.",
@@ -404,7 +404,7 @@
         "deepai": {
             "DEEPAI_DESC": "Executa as ferramentas de inteligência artificial mais poderosas usando redes neurais artificiais.",
             "TEXT": "*Você deve inserir o texto! Embora eu seja uma inteligência artificial poderosa, não consigo ler seus pensamentos!*",
-            "URL": "*Você deve inserir o URL da imagem!*\n*Exemplo:* https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
+            "URL": "*Você deve inserir o URL da imagem!*\n*Exemplo:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
             "TTP_DESC": "Converte texto em pintura simples.",
