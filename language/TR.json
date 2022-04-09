@@ -186,7 +186,7 @@
             "DOWNLOADING_SONG": "```Şarkınız indiriliyor...```",
             "UPLOADING_SONG": "```Şarkınız yükleniyor...```",
             "VIDEO_DESC": "Youtubedan video indirir.",
-            "NEED_VIDEO": "*Lütfen bir video adresi yazın!*\n*Örnek:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Lütfen bir video adresi yazın!*\n*Örnek:* ```.video https://youtu.be/W725IHjXFHY```",
             "DOWNLOADING_VIDEO": "```Videonuz indiriliyor...```",
             "UPLOADING_VIDEO": "```Videonuz yükleniyor...```",
             "YT_DESC": "Youtubeda arama yapar.",
@@ -404,7 +404,7 @@
         "deepai": {
             "DEEPAI_DESC": "Yapay sinir ağlarını kullanarak en güçlü yapay zeka araçlarını çalıştırır.",
             "TEXT": "*Metin girmelisin! Her ne kadar güçlü bir yapay zeka olsam da düşüncelerini okuyamam!*",
-            "URL": "*Resim URL'si girmelisin!*\n*Örnek:* https://i.hizliresim.com/nrg50b.jpg"
+            "URL": "*Resim URL'si girmelisin!*\n*Örnek:* https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
         },
         "ttp": {
             "TTP_DESC": "Yazıyı sade resme dönüştürür.",
