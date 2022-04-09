@@ -189,7 +189,7 @@
             "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
             "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
-            "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://youtu.be/W725IHjXFHY```",
             "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
             "UPLOADING_VIDEO": "\n```Uploading...```\n",
             "YT_DESC": "YouTubeill search cheyyum.",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Pikachu Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*Alexa Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting..*"
+            "AFTER_UPDATE": "*😎 Alexa Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -437,7 +437,7 @@
         "deepai": {
             "DEEPAI_DESC": "neural networksill run cheyunna AI.",
             "TEXT": "*AI anenkillum ith vaayikaan enik kayilla , oru text enter cheyyu mister !*",
-            "URL": "*image URL venam!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
+            "URL": "*image URL venam!*\n*Example:* https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
         },
         "ttp": {
             "TTP_DESC": "text plain text aakunu.",
@@ -516,7 +516,7 @@
             "ARAT": "Searched Song:"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github TURBOHYPER",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
