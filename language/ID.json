@@ -187,7 +187,7 @@
             "DOWNLOADING_SONG": "```Mengunduh lagu Anda...```",
             "UPLOADING_SONG": "```Mengunggah lagu Anda...```",
             "VIDEO_DESC": "Unduh video dari YouTube.",
-            "NEED_VIDEO": "*Harap masukkan tautan video!*\n*Contoh:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Harap masukkan tautan video!*\n*Contoh:* ```.video https://youtu.be/W725IHjXFHY```",
             "DOWNLOADING_VIDEO": "```Mengunduh lagu Anda...```",
             "UPLOADING_VIDEO": "```Mengunggah lagu Anda...```",
             "YT_DESC": "Ini mencari di YouTube.",
@@ -404,7 +404,7 @@
         "deepai": {
             "DEEPAI_DESC": "Menjalankan alat kecerdasan buatan paling kuat menggunakan jaringan saraf tiruan.",
             "TEXT": "*Anda harus memasukkan teks! Meskipun saya adalah kecerdasan buatan yang kuat, saya tidak dapat membaca pikiran Anda!*",
-            "URL": "*Anda harus memasukkan URL gambar!*\n*Contoh:* https://i.hizliresim.com/nrg50b.jpg"
+            "URL": "*Anda harus memasukkan URL gambar!*\n*Contoh:* https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
         },
         "ttp": {
             "TTP_DESC": "Mengonversi teks menjadi lukisan biasa.",
