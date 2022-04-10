@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to mak
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TURBOHYPER/Toxic-Alexa/edit/master/README.md)
  
 ### The Hard Method
 ```js
