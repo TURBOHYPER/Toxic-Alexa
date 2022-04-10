@@ -115,10 +115,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
+  [![Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER) | [![Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu) 
 ----|----|----
-[Toxic-Turbo](https://github.com/TURBOHYPER) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
-Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Developer, Base, Bug Fixes, Modules
+[Turbo](https://github.com/TURBOHYPER) | [Jifi](https://github.com/MD-JIFI) | [Afx-Abu](https://github.com/Afx-Abu) 
+Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Bug Fixes
   </div>
     
     
