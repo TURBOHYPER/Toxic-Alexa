@@ -127,7 +127,7 @@
             "value": "false"
         },
         "SEND_READ": {
-            "description": "Görüldü atmak istiyorsanız true yazın. Write true if you want to throw seen.",
+            "description": "Görüldü atmak istiyorsanız  true yazın. Write true if you want to throw seen.",
             "required": true,
             "value": "true"
         },
