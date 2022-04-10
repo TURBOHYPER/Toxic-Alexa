@@ -14,7 +14,7 @@ var ddd = ggg.toString('utf-8')
 let whb = Config.WORKTYPE == 'public' ? false : true
 
 Turbo.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
-// send a buttons message!credit Turbo
+// send a buttons message!credit Turbo 
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: Config.ALIVE_BUTTON }, type: 1},
         {buttonId: 'id2', buttonText: {displayText: Config.ALIVEBUTTON }, type: 1}
