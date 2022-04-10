@@ -2,14 +2,14 @@
     "name": "Toxic-Alexa",
     "description": "Toxic-Alexa - Whatsapp Bot",
     "logo": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "keywords": ["whatsapp", "userbot", "Alexa", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/TURBOHYPER/Toxic-Alexa",
     "website":   "https://github.com/TURBOHYPER/Toxic-Alexa",
     "success_url": "https://github.com/TURBOHYPER/Toxic-Alexa",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
-            "description": "Asena session changed! Type your Alexa code here.",
+            "description": "Alexa session changed! Type your Alexa code here.",
             "required": true
         },
         "SUDO": {
@@ -171,7 +171,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Alexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
