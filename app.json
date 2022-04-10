@@ -71,6 +71,11 @@
             "required": false,
             "value": "https://instagram.com/toxic_turbo777"
         },
+        "GROUP_LINK": {
+            "description": "Group Link",
+            "required": true,
+            "value": "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
+        },
         "NUMBER": {
             "description": "Type Your Number Here'. Otherwise false",
             "required": false,
