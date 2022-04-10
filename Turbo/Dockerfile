@@ -7,3 +7,4 @@ RUN npm install supervisor -g
 RUN yarn install --ignore-engines
 
 CMD ["node", "bot.js"]
+ 
