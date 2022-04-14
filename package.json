@@ -1,7 +1,7 @@
 {
   "name": "Toxic-Alexa",
   "version": "7.3.6",
-  "description": "Toxic-Alexa is a Modified Version of WhatsAsena, Made By Toxic-Turbo.",
+  "description": "Toxic-Alexa  is a Modified Version of WhatsAsena, Made By Toxic-Turbo.",
   "main": "./Toxic-Alexa/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
