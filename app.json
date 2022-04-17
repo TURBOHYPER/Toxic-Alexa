@@ -26,6 +26,11 @@
             "required": false,
             "value": "31996800"
          },
+         "THERI_KICK": {
+            "description": "do not change this",
+            "required": false,
+            "value": "false"
+         },
          "BROADCAST_NAME": {
             "description": "alexafor ordertext",
             "required": false,
@@ -46,8 +51,13 @@
             "required": false,
             "value": "true"
         },
+        "DISABLE_JID_BGM_FILTER": {
+            "description": "If you do not likes tag bgm you can write 'true'. Otherwise false",
+            "required": false,
+            "value": "false"
+        },
         "AUTO_STICKER": {
-            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "description": "If you likes stickers you can write 'true'. Otherwise false",
             "required": false,
             "value": "true"
         },
@@ -213,6 +223,11 @@
             "description": "Customizable Add Message! Use => default, to change back.",
             "required": false,
             "value": "default"
+        },
+        "THERI_LIST": {
+            "description": "do not change this.",
+            "required": false,
+            "value": "false"
         },
          "ALEXA_PASSWORD": {
             "description": "enter the password, to get password watch https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
