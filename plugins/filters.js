@@ -3,7 +3,7 @@ any can add bgm with names
 turbo-jifi/toxic alexa 
 */
 const fs = require('fs')
-const Julie = require('../events');
+const Turbo = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
