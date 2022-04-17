@@ -1,4 +1,4 @@
-const AlphaX = require('../events');
+const Turbo = require('../events');
 const {MessageType, Mimetype} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const ffmpeg = require('fluent-ffmpeg');
@@ -9,7 +9,7 @@ const Language = require('../language');
 const Lang = Language.getString('spammer');
 
 
-AlphaX.addCommand({pattern: 'sticker spam$', fromMe: true, desc: Lang.ST_DESC }, (async (message, match) => {    
+Turbo.addCommand({pattern: 'sticker spam$', fromMe: true, desc: Lang.ST_DESC }, (async (message, match) => {    
 
     if (!message.reply_message) return await message.client.sendMessage(message.jid,Lang.ST_NEED, MessageType.text);
     if (message.reply_message.sticker) return await message.client.sendMessage(message.jid, Lang.ST_ST, MessageType.text);
