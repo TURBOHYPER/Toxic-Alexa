@@ -81,6 +81,11 @@
             "required": false,
             "value": "916380260672"
         },
+        "TAG_REPLY": {
+            "description": "Type Your Number Here For Tag Reply Ex- 916380260672@s.whatsapp.net'. Otherwise false",
+            "required": false,
+            "value": "916380260672@s.whatsapp.net"
+        },
         "WARN_COUNT": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
