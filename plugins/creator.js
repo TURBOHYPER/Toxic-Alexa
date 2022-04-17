@@ -1,10 +1,10 @@
-const rudh = require('../events');
+const Turbo = require('../events');
 const {MessageType, Mimetype} = require('@adiwajshing/baileys');
 const exec = require('child_process').exec;
 const os = require("os");
 const fs = require('fs');
 const Config = require('../config')
-rudh.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
+Turbo.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
 //coded by Turbo
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
