@@ -9,7 +9,7 @@ const Lang = Language.getString('_abu');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 Turbo.addCommand({pattern: 'assist ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
-var url = await axios.get(Abu.THUMBNAIL, { responseType: 'arraybuffer' })
+var url = await axios.get(Alexa.THUMBNAIL, { responseType: 'arraybuffer' })
     var CMD_HELP = '';
     if (match[1] === '') {
         Turbo.commands.map(
