@@ -35,6 +35,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     OWNER: process.env.OWNER_NAME === undefined ? 'ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '916380260672' : process.env.NUMBER,
+    MENTION: process.env.TAG_REPLY === undefined ? '916380260672@s.whatsapp.net' : process.env.TAG_REPLY,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://c.tenor.com/QNtFLycfQiAAAAPo/pika-pikachu.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://c.tenor.com/CIDOwXeJO4gAAAPo/pokemon-wave.mp4' : process.env.GIF_BYE,
