@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 Ameer Kallumthodi
+/* Copyright (C) 2021 toxic turbo
 edited by Turbo Jifi
 */
 
