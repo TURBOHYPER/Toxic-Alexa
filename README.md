@@ -23,8 +23,12 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to mak
 
   ### Simple Method
  
+Server 1
+
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa-Qr?v=1)
-  
+
+Server 2
+
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa) 
