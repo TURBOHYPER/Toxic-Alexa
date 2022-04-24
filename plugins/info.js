@@ -1,6 +1,6 @@
 //PLUGIN BY SOURAVKL11 COPY WITH CREDIT
 
-const Asena = require('../events');
+const Turbo = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const Config = require('../config');
 const axios = require('axios');
@@ -8,7 +8,7 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information and creator info'}, (async (message, match) => {
+Turbo.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information and creator info'}, (async (message, match) => {
 
     var r_text = new Array ();
     
@@ -21,20 +21,20 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.PLK +`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.OWNER +`
     
     ----- ` + Config.BOTSK + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
-│❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
+│❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.OWNER + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
-│❖ *OWNER* : https:/wa.me/916380260672...
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.INSTA + `
+│❖ *OWNER* : https:/wa.me/` + Config.PHONE + `
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
     
-    ⚡ ` + Config.AFN + ` ⚡
+    ⚡ ` + Config.OWNER + ` ⚡
 `}) 
 
 }));
