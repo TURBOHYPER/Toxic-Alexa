@@ -37,9 +37,9 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
 var PROP = { aredits: '916380260672,0' }
-var unlink = `019112af334adceaefd1467dcbd93e58` 
+var unlink = `b08d353c10001f084dd90d1d84f04a41` 
 var PROP2 = { kl11: '916380260672,0' }
-var string = base + `souravkl11`
+var string = base + `TURBOHYPER`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
