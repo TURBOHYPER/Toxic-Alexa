@@ -29,7 +29,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: '╭───𒆜ᴏᴡɴᴇʀ𒆜\n│' + Config.OWNER + ',
+          contentText: '╭───𒆜ᴏᴡɴᴇʀ𒆜',
           footerText: '© ᴛᴜʀʙᴏ',
           buttons: buttons,
           headerType: 1
