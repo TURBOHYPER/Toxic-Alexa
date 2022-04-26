@@ -141,7 +141,7 @@
             "required": true,
             "value": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
         },
-        "FULL_EVA": {
+        "ALEXA_AI": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
             "value": "false"
