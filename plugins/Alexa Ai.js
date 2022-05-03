@@ -244,7 +244,7 @@ if (conf.LANG == 'TR') {
     succ_off = 'Alexa, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
-    fulleva_dsc = 'Activates full functional Alexa features. Turn your account into a ai chatbot!'
+    fulleva_dsc = 'Activates fully functional Alexa features. Turn your account into a chatbot. Turn your account into a ai chatbot!'
     already_on = 'Alexa artificial intelligence is already fully functional.'
     already_off = 'Alexa artificial intelligence is currently running semi-functional.'
     succ_on = 'Alexa Opened Fully Functionally! Please wait a bit! ✅'
@@ -256,6 +256,13 @@ if (conf.LANG == 'ML') {
     already_off = 'Alexa നിലവിൽ സെമി-ഫംഗ്ഷണൽ ആണ്.'
     succ_on = 'Alexa  പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായി തുറന്നു! കുറച്ച് കാത്തിരിക്കൂ! ✅'
     succ_off = 'സെമി-ഫങ്ഷണൽ ആയി Alexa സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
+}
+if (conf.LANG == 'TA') {
+    fulleva_dsc = 'முழுமையாக செயல்படும் அலெக்சா அம்சங்களை செயல்படுத்துகிறது. உங்கள் கணக்கை chatbot ஆக மாற்றவும். உங்கள் கணக்கை AI சாட்போடாக மாற்றவும்!'
+    already_on = 'அலெக்சா செயற்கை நுண்ணறிவு ஏற்கனவே முழுமையாக செயல்படுகிறதுு.'
+    already_off = 'Alexa செயற்கை நுண்ணறிவு தற்போது அரை-செயல்பாட்டு முறையில் இயங்குகிறதுு.'
+    succ_on = 'அலெக்சா முழுமையாக செயல்பாட்டுடன் திறக்கப்பட்டது! கொஞ்சம் பொறுங்கள்! ✅'
+    succ_off = 'அலெக்சா அரை-செயல்பாட்டிற்கு அமைக்கப்பட்டுள்ளது! கொஞ்சம் பொறுங்கள்! ☑️'
 }
 
 Turbo.addCommand({ pattern: 'chatbot ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.chatbot on / off' }, (async (message, match) => {
