@@ -30,6 +30,7 @@ let baseURI = '/apps/' + conf.HEROKU.APP_NAME;
 let wk = conf.WORKTYPE == 'public' ? false : true
 var vtalk_dsc = ''
 var reply_eva = ''
+if (conf.LANG == 'TA') vtalk_dsc = 'அலெக்சா குரல் அரட்டையைத் தொடங்குகிறது.', reply_eva = '*எந்த குரல் செய்திக்கும் பதிலளிக்கவும்!*'
 if (conf.LANG == 'TR') vtalk_dsc = 'Eva sesli sohbetini başlatır.', reply_eva = '*Herhangi Bir Sesli Mesaja Yanıt Verin!*'
 if (conf.LANG == 'EN') vtalk_dsc = 'Starts to Alexa voice chat.', reply_eva = '*Reply to Any Voice Message!*'
 if (conf.LANG == 'AZ') vtalk_dsc = 'Eva səsli söhbətinə başlayır.', reply_eva = '*Hər hansı bir səsli mesaja cavab verin!*'
