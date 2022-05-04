@@ -195,6 +195,11 @@
             "required": false,
             "value": "default"
         },
+        "CHANGE_BGM_TO": {
+            "description": "type one or two here.",
+            "required": true,
+            "value": "one"
+        },
         "WORK_TYPE": {
             "description": "Alexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
