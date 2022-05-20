@@ -28,9 +28,8 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'TOXIC_ALEXA;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'PIKACHU;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
 module.exports = StringSession;
- 

@@ -1,1 +1,69 @@
-const RagaNork=Raganork;(function(RAgAnork,raGAnork){const ragaNork=Raganork,RaGAnork=RAgAnork();while(!![]){try{const rAGAnork=-parseInt(ragaNork(0xe2))/0x1*(-parseInt(ragaNork(0x10f))/0x2)+parseInt(ragaNork(0x103))/0x3*(parseInt(ragaNork(0x105))/0x4)+parseInt(ragaNork(0xe8))/0x5+parseInt(ragaNork(0xee))/0x6*(-parseInt(ragaNork(0xf6))/0x7)+parseInt(ragaNork(0xec))/0x8*(-parseInt(ragaNork(0x127))/0x9)+parseInt(ragaNork(0xe9))/0xa+-parseInt(ragaNork(0xe0))/0xb*(parseInt(ragaNork(0xf2))/0xc);if(rAGAnork===raGAnork)break;else RaGAnork['push'](RaGAnork['shift']());}catch(RAGAnork){RaGAnork['push'](RaGAnork['shift']());}}}(raganork,0x640b0));const {MessageType,Presence,MessageOptions}=require(RagaNork(0x122)+'iwa'+RagaNork(0x12d)+RagaNork(0x10d)+RagaNork(0xf8)+RagaNork(0x126)+'ys'),Base=require(RagaNork(0x11f)+'ase'),Message=require(RagaNork(0x120)+'ess'+RagaNork(0xdd)),ReplyMessage=require(RagaNork(0xda)+'epl'+RagaNork(0xe1)+'ssa'+'ge');class Video extends Base{constructor(rAganork,RAganork){const rAgaNork=RagaNork;super(rAganork);if(RAganork)this[rAgaNork(0xef)+rAgaNork(0x123)](RAganork);}['_pa'+RagaNork(0x123)](raGanork){const RAgaNork=RagaNork;return this['id']=raGanork[RAgaNork(0x136)]['id']===undefined?undefined:raGanork[RAgaNork(0x136)]['id'],this[RAgaNork(0xe5)]=raGanork[RAgaNork(0x136)][RAgaNork(0x11a)+RAgaNork(0xe4)+RAgaNork(0xfa)],this['bot'+RAgaNork(0xe3)+RAgaNork(0x119)]=this[RAgaNork(0x10e)+RAgaNork(0x121)][RAgaNork(0x11c)+'r']['id'][RAgaNork(0x10a)+'it'](':')[0x0]+('@s.'+RAgaNork(0x106)+RAgaNork(0x109)+RAgaNork(0xde)+RAgaNork(0xfb)),this[RAgaNork(0xf0)+RAgaNork(0xdf)]=raGanork[RAgaNork(0x136)][RAgaNork(0xf0)+'mMe'],this[RAgaNork(0xf5)+'tio'+'n']=raGanork[RAgaNork(0xed)+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+'eoM'+'ess'+'age'][RAgaNork(0xf5)+RAgaNork(0x130)+'n']===null?raGanork[RAgaNork(0xed)+'sag'+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+RAgaNork(0x100)+'age'][RAgaNork(0xf5)+RAgaNork(0x130)+'n']:'',this[RAgaNork(0xfe)]=raGanork[RAgaNork(0xed)+'sag'+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+RAgaNork(0x100)+RAgaNork(0xdd)]['url'],this[RAgaNork(0x12a)+RAgaNork(0xf3)+RAgaNork(0x11b)]=typeof raGanork['mes'+RAgaNork(0xfc)+RAgaNork(0x10c)+RAgaNork(0xed)+'tam'+'p']==='obj'+RAgaNork(0x102)?raGanork[RAgaNork(0xed)+'sag'+RAgaNork(0x10c)+'mes'+RAgaNork(0x10b)+'p']['low']:raGanork[RAgaNork(0xed)+RAgaNork(0xfc)+'eTi'+RAgaNork(0xed)+RAgaNork(0x10b)+'p'],this[RAgaNork(0x129)+'ety'+'pe']=raGanork[RAgaNork(0xed)+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+RAgaNork(0x100)+RAgaNork(0xdd)][RAgaNork(0x129)+RAgaNork(0x133)+'pe'],this['hei'+RAgaNork(0xf9)]=raGanork[RAgaNork(0xed)+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+RAgaNork(0x100)+RAgaNork(0xdd)][RAgaNork(0xeb)+RAgaNork(0xf9)],this[RAgaNork(0x12b)+'th']=raGanork[RAgaNork(0xed)+RAgaNork(0xfc)+'e']['vid'+RAgaNork(0xe6)+'ess'+RAgaNork(0xdd)][RAgaNork(0x12b)+'th'],this[RAgaNork(0x115)+RAgaNork(0x110)+'ey']=raGanork['mes'+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+RAgaNork(0x100)+RAgaNork(0xdd)][RAgaNork(0x115)+'iaK'+'ey'],this[RAgaNork(0x11e)+'a']=raGanork,raGanork['mes'+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+RAgaNork(0x100)+RAgaNork(0xdd)][RAgaNork(0xf7)+'Own'+RAgaNork(0xff)+RAgaNork(0xfd)+'ty']('con'+RAgaNork(0x132)+'tIn'+'fo')&&raGanork[RAgaNork(0xed)+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+'eoM'+RAgaNork(0x100)+'age'][RAgaNork(0x11d)+'tex'+RAgaNork(0x107)+'fo'][RAgaNork(0x108)+RAgaNork(0x114)+RAgaNork(0x101)+'sag'+'e']?this['rep'+'ly_'+RAgaNork(0xed)+'sag'+'e']=new ReplyMessage(this[RAgaNork(0x10e)+RAgaNork(0x121)],raGanork['mes'+RAgaNork(0xfc)+'e'][RAgaNork(0xf4)+RAgaNork(0xe6)+'ess'+RAgaNork(0xdd)]['con'+'tex'+'tIn'+'fo']):this[RAgaNork(0x111)+RAgaNork(0x135)+RAgaNork(0xed)+RAgaNork(0xfc)+'e']=![],super[RAgaNork(0xef)+RAgaNork(0x123)](raGanork);}async['del'+RagaNork(0x131)](){const raGaNork=RagaNork;return await this[raGaNork(0x10e)+'ent']['del'+raGaNork(0x131)+raGaNork(0x101)+raGaNork(0xfc)+'e'](this['jid'],{'id':this['id'],'remoteJid':this[raGaNork(0xe5)],'fromMe':!![]});}async['rep'+'ly'](RaGanork){const RaGaNork=RagaNork;var rAGanork=await this[RaGaNork(0x10e)+RaGaNork(0x121)][RaGaNork(0xea)+'dMe'+RaGaNork(0x128)+'ge'](this[RaGaNork(0xe5)],{'text':RaGanork},{'quoted':this[RaGaNork(0x11e)+'a']});return new Message(this[RaGaNork(0x10e)+'ent'],rAGanork);}async['sen'+RagaNork(0x134)+RagaNork(0x128)+'ge'](RAGanork,ragAnork,RagAnork){const rAGaNork=RagaNork;return await this[rAGaNork(0x10e)+'ent']['sen'+'dMe'+'ssa'+'ge'](this[rAGaNork(0xe5)],RAGanork,ragAnork,RagAnork);}async[RagaNork(0xea)+'dTy'+RagaNork(0x104)+'g'](){const RAGaNork=RagaNork;return await this['cli'+'ent']['upd'+'ate'+RAGaNork(0x124)+RAGaNork(0xea)+'ce'](this[RAGaNork(0xe5)],Presence[RAGaNork(0x125)+RAGaNork(0x117)+RAGaNork(0x10d)]);}async[RagaNork(0xea)+RagaNork(0x12e)+'ad'](){const ragANork=RagaNork;return await this['cli'+ragANork(0x121)][ragANork(0xdc)+ragANork(0xf1)+'ad'](this['jid']);}async[RagaNork(0xe7)+RagaNork(0x112)+'ad'](rAgAnork=this['id']){const RagANork=RagaNork;return await this[RagANork(0x10e)+RagANork(0x121)]['dow'+RagANork(0x112)+RagANork(0xdb)+RagANork(0x113)+'ave'+RagANork(0x118)+RagANork(0x12c)+RagANork(0x100)+RagANork(0xdd)](this['dat'+'a'],rAgAnork),this['id']+'.'+this['mim'+RagANork(0x133)+'pe'][RagANork(0x10a)+'it']('/')[0x1];}}function Raganork(rAganork,RAganork){const raGanork=raganork();return Raganork=function(RaGanork,rAGanork){RaGanork=RaGanork-0xda;let RAGanork=raGanork[RaGanork];return RAGanork;},Raganork(rAganork,RAganork);};function raganork(){const rAgANork=['med','ort','pos','Med','ber','rem','amp','use','con','dat','./B','./M','ent','@ad','tch','Pre','com','ile','36uVCHTk','ssa','mim','tim','wid','iaM','jsh','dRe','exp','tio','ete','tex','ety','dMe','ly_','key','./R','adA','cha','age','pp.','mMe','26653DZqEWQ','yMe','22531mWkniz','Num','ote','jid','eoM','dow','2183100QzROaG','3107480ieuqAJ','sen','hei','694888MwcTrC','mes','224112YXIMOX','_pa','fro','tRe','1812xAuCVR','est','vid','cap','70WxFrQu','has','/ba','ght','Jid','net','sag','per','url','Pro','ess','Mes','ect','3QFqylu','pin','1374748CZzfyd','wha','tIn','quo','tsa','spl','tam','eTi','ing','cli','36bEmHuT','iaK','rep','nlo','ndS','ted'];raganork=function(){return rAgANork;};return raganork();}module[RagaNork(0x12f)+RagaNork(0x116)+'s']=Video;
+/* Copyright (C) 2020 Yusuf Usta. 
+
+Licensed under the  GPL-3.0 License;
+you may not use this file except in compliance with the License.
+
+WhatsAsena - Yusuf Usta
+*/
+
+const {MessageType, Presence, MessageOptions} = require('@adiwajshing/baileys');
+const Base = require('./Base');
+const Message = require('./Message');
+const ReplyMessage = require('./ReplyMessage');
+
+class Video extends Base {
+    constructor(client, data) {
+        super(client);
+        if (data) this._patch(data);
+    }
+
+    _patch(data) {
+        this.id = data.key.id === undefined ? undefined : data.key.id;
+        this.jid = data.key.remoteJid;
+        this.fromMe = data.key.fromMe;
+        this.caption = data.message.videoMessage.caption === null ? data.message.videoMessage.caption : '';
+        this.url = data.message.videoMessage.url;
+        this.timestamp = typeof(data.messageTimestamp) === 'object' ? data.messageTimestamp.low : data.messageTimestamp;
+        this.mimetype = data.message.videoMessage.mimetype;
+        this.height = data.message.videoMessage.height;
+        this.width = data.message.videoMessage.width;
+        this.mediaKey = data.message.videoMessage.mediaKey;
+        this.data = data;
+        
+        if (data.message.videoMessage.hasOwnProperty('contextInfo') && data.message.contextInfo.quotedMessage) { 
+            this.reply_message = new ReplyMessage(this.client, data.message.videoMessage.contextInfo); }
+        else {
+            this.reply_message = false;
+        }
+        
+        return super._patch(data);
+    }
+
+    async delete() {
+        return await this.client.deleteMessage(this.jid, {id: this.id, remoteJid: this.jid, fromMe: true})
+    }
+
+    async reply(text) {
+        var message = await this.client.sendMessage(this.jid, text, MessageType.text, {quoted: this.data})
+        return new Message(this.client, message)
+    }
+
+    async sendMessage(content, type, options) {
+        return await this.client.sendMessage(this.jid, content, type, options)
+    }
+
+    async sendTyping() {
+        return await this.client.updatePresence(this.jid, Presence.composing) ;
+    }
+
+    async sendRead() {
+        return await this.client.chatRead(this.jid);
+    }
+
+    async download(location = this.id) {
+        await this.client.downloadAndSaveMediaMessage(this.data, location);
+        return this.id + '.' + this.mimetype.split('/')[1];
+    }
+};
+
+module.exports = Video;
