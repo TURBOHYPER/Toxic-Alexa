@@ -5,3 +5,4 @@ module.exports = {
     audio: 'audio',
     sticker: 'sticker'
     };
+
