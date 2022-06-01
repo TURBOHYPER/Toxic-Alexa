@@ -72,7 +72,7 @@ async function whatsAsena () {
     });
     
     
-    const conn = new WAConnection();
+    const conn = WAConnection();
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
