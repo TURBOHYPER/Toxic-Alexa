@@ -12,7 +12,7 @@ const {StringSession} = require('./Turbo/');
 const fs = require('fs');
 
 async function whatsAsena () {
-    const conn = new WAConnection();
+    const conn = WAConnection();
     const Session = new StringSession();  
     conn.version = [2, 2140, 12]
     conn.logger.level = 'warn';
