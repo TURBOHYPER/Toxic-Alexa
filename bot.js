@@ -73,8 +73,6 @@ async function whatsAsena () {
     
     
     const conn = new WAConnection();
-    const sourav = await axios('https://gist.githubusercontent.com/souravkl11/160a847d127e1fb38a4913a005dfe08f/raw/094f940e91a478de25de41f19b2a712bdff6e475/Version.json')
-    conn.version = sourav.data.kl11
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
