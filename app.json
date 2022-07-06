@@ -34,12 +34,12 @@
          "BROADCAST_NAME": {
             "description": "alexafor ordertext",
             "required": false,
-            "value": "ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩"
+            "value": "ī.am/ꪶᴀɴᴜᴍᴏʟꫂ⁩⁩⁩"
          },
          "BOT_NAME": {
             "description": "Bot Name For Menu",
             "required": false,
-            "value": "🥵Toxic-Alexa🥶"
+            "value": "🥵ANUMOL-MD🥶"
          },
          "TALKING_ALEXA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -69,27 +69,27 @@
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
             "required": true,
-            "value": "ʜᴇʟʟᴏ ʙʀᴏ"
+            "value": "ʜᴇʟʟᴏ ʙʀᴏ👀"
         },
         "ALIVE_BUTTON": {
             "description": "Set the Alive message first name",
             "required": true,
-            "value": "ʜɪ ᴅᴜᴅᴇ"
+            "value": "ʜɪ ᴅᴜᴅᴇ😌"
         },
         "INSTA_LINK": {
             "description": "Type Your Instagarm UserName Here'. Otherwise false",
             "required": false,
-            "value": "https://instagram.com/toxic_turbo777"
+            "value": "https://instagram.com/shibin_rx7__"
         },
         "GROUP_LINK": {
             "description": "Group Link",
             "required": true,
-            "value": "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
+            "value": "https://chat.whatsapp.com/J5Qms51PaimBd4vt55owqA"
         },
         "NUMBER": {
-            "description": "Type Your Number Here'. Otherwise false",
+            "description": "919048852827'. Otherwise false",
             "required": false,
-            "value": "916380260672"
+            "value": "919048852827"
         },
         "TAG_REPLY": {
             "description": "Type Your Number Here For Tag Reply Ex- 916380260672@s.whatsapp.net'. Otherwise false",
@@ -129,17 +129,17 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "Turbo"
+            "value": "sulthan"
         },
         "ALL_CAPTION": {
             "description": "Caption for images and videos",
             "required": false,
-            "value": "🥵Toxic-Alexa🥶"
+            "value": "🥵ANUMOL-MD🥶"
         },
         "ALL_IMG": {
             "description": "Your Bot Images Url",
             "required": true,
-            "value": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
+            "value": "https://i.imgur.com/v3eMwbt.jpeg"
         },
         "ALEXA_AI": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -222,8 +222,8 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/ꪶ⇾🪀☻᳡₉ͭ₁ͦ₆ͯ₃ͥ₈ͨ₀ͭ₂ͧ₆ͬ₀ᷨ₆ͦ₇₂🇮🇳⃟ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .ʟɪsᴛ ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩*\n*╰─────────────────☘︎*"
-        },
+            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/ꪶ⇾🪀sᴜʟᴛʜᴀɴ🇮🇳⃟ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .ʟɪsᴛ ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶsᴜʟᴛʜᴀɴꫂ⁩⁩⁩*\n*╰─────────────────☘︎*"
+        },"
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
@@ -242,7 +242,7 @@
          "ALEXA_PASSWORD": {
             "description": "enter the password, to get password watch https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
             "required": false,
-            "value": "turbo777"
+            "value": "anu777"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
