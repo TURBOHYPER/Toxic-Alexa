@@ -9,12 +9,16 @@ const path = require("path");
 const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
-const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./Turbo/');
+const pino = require('pino');
+const {default: makeWASocket, useSingleFileAuthState } = require("@adiwajshing/baileys")
+const {MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
+const {Message, Image, Video} = require('./Turbo/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const axios = require('axios');
 const got = require('got');
+
+const { state } = useSingleFileAuthState(`./qr.json`)
 
 // Sql
 const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
@@ -65,50 +69,30 @@ Array.prototype.remove = function() {
 
 async function whatsAsena () {
     await config.DATABASE.sync();
-    var StrSes_Db = await WhatsAsenaDB.findAll({
-        where: {
-          info: 'StringSession'
+    let conn = makeWASocket({
+        logger: pino({ level: 'silent' }),
+		auth: state,
+		printQRInTerminal: true,
+	})
+    
+
+    const { connection, lastDisconnect } = s
+        if (connection === "connecting") {
+            console.log(`${chalk.green.bold('Toxic')}${chalk.blue.bold('Alexa')}
+    ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
         }
-    });
-    
-    
-    const conn = new WAConnection();
-    const Session = new StringSession();
-
-    conn.logger.level = config.DEBUG ? 'debug' : 'warn';
-    var nodb;
-
-    if (StrSes_Db.length < 1) {
-        nodb = true;
-        conn.loadAuthInfo(Session.deCrypt(config.SESSION)); 
-    } else {
-        conn.loadAuthInfo(Session.deCrypt(StrSes_Db[0].dataValues.value));
-    }
-
-    conn.on ('credentials-updated', async () => {
-        console.log(
-            chalk.blueBright.italic('✅ Login information updated!')
-        );
-
-        const authInfo = conn.base64EncodedAuthInfo();
-        if (StrSes_Db.length < 1) {
-            await WhatsAsenaDB.create({ info: "StringSession", value: Session.createStringSession(authInfo) });
-        } else {
-            await StrSes_Db[0].update({ value: Session.createStringSession(authInfo) });
-        }
-    })    
-
-    conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
-${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
-${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
-    });
-    
-
-    conn.on('open', async () => {
-        console.log(
-            chalk.green.bold('✅ Login successful!')
-        );
+		
+		if (
+			connection === "close" &&
+			lastDisconnect &&
+			lastDisconnect.error &&
+			lastDisconnect.error.output.statusCode != 401
+			) {
+          
+		}
+        if (connection === "open") {
+			conn.sendMessage(conn.user.id,{text :'connected ✔✔'})
+            console.log(chalk.green.bold('✅ Login Successful!'));
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
@@ -397,7 +381,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     } catch {
         if (!nodb) {
             console.log(chalk.red.bold('Eski sürüm stringiniz yenileniyor...'))
-            conn.loadAuthInfo(Session.deCrypt(config.SESSION)); 
+            \\conn.loadAuthInfo(Session.deCrypt(config.SESSION)); 
             try {
                 await conn.connect();
             } catch {
