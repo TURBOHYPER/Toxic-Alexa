@@ -84,7 +84,7 @@
         "GROUP_LINK": {
             "description": "Group Link",
             "required": true,
-            "value": "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
+            "value": "https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9"
         },
         "NUMBER": {
             "description": "Type Your Number Here'. Otherwise false",
