@@ -15,7 +15,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to mak
         Reserved |
     <br> 
 </p>
-
+ 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=Toxic-Alexa%20Views)
 
 ## Setup
