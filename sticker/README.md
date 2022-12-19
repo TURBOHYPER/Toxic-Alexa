@@ -53,7 +53,7 @@ https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa
 ```js
 GET QR
 $ apt install git
-$ apt install nodejs --fix-missing
+$ apt install nodejs --fix-missing 
 $ git clone https://github.com/TURBOHYPER/Toxic-Alexa
 $ cd Toxic-Alexa
 $ npm install @adiwajshing/baileys
