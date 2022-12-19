@@ -63,7 +63,7 @@ module.exports = {
     ALIVE_BUTTON: process.env.ALIVE_BUTTON === undefined ? 'ʜᴀᴘᴘʏ' : process.env.ALIVE_BUTTON,
     TURBO: process.env.NAME_STYLE === undefined ? 'Toxic-Turbo' : process.env.NAME_STYLE,
     INSTA: process.env.INSTA_LINK === undefined ? 'https://instagram.com/toxic_turbo777' : process.env.INSTA_LINK,
-    GROUP: process.env.GROUP_LINK === undefined ? 'https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp' : process.env.GROUP_LINK,
+    GROUP: process.env.GROUP_LINK === undefined ? 'https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9' : process.env.GROUP_LINK,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/toxic_turbo777' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
